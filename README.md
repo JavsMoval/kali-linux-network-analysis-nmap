@@ -19,3 +19,17 @@ This project presents a technical report on network scanning using Nmap in a Kal
 
 ## Author
 Javier Moreira
+
+## Scan Evidence
+
+### Full Port Scan
+![Full Scan](screenshots/full-scan.png)
+
+### Service and Version Detection
+![Service Scan](screenshots/service-scan.png)
+
+### Aggressive Scan
+![Aggressive Scan](screenshots/aggressive-scan.png)
+
+### SMB Vulnerability Scan
+![SMB Scan](screenshots/smb-scan.png)
