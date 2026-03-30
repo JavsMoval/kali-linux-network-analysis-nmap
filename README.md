@@ -17,9 +17,6 @@ This project presents a technical report on network scanning using Nmap in a Kal
 - /report → Technical report document
 - /screenshots → Evidence of scans performed
 
-## Author
-Javier Moreira
-
 ## Scan Evidence
 
 ### Full Port Scan
@@ -33,3 +30,7 @@ Javier Moreira
 
 ### SMB Vulnerability Scan
 ![SMB Scan](screenshots/smb-scan.png)
+
+
+## Author
+Javier Moreira
